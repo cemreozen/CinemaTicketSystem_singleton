@@ -13,8 +13,6 @@ interface TicketOffice {
 
 }
 
-// An enum to represent the sales channel - either box office or online
-
 /*
 A Cinema ticket system implements the TicketOffice interface.
 Our cinema offers both direct sales at the box office and online sales through a website.
